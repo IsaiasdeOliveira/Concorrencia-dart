@@ -1,6 +1,6 @@
 # Concorrência em Dart
 
-Integrantes: Isaias Maia de Oliveira e Daniel Baptista Santos
+Integrantes: Isaias Maia de Oliveira e Daniel Santos Baptista
 
 Este repositório apresenta exemplos práticos de concorrência e assincronismo na linguagem Dart. O objetivo é demonstrar como executar operações assíncronas, organizar tarefas, trabalhar com fluxos de dados e utilizar isolates para processamento paralelo.
 
