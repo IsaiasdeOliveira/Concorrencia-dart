@@ -1,0 +1,12 @@
+
+# Arquivos e pastas gerados pelo Dart
+.dart_tool/
+.packages
+build/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações locais do VS Code
+.vscode/
